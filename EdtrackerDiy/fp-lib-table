@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Boards)(type KiCad)(uri ${KIPRJMOD}/libs/SparkFun/Footprints/Boards.pretty)(options "")(descr ""))
+  (lib (name MPU9250)(type KiCad)(uri ${KIPRJMOD}/libs/MPU9250/Footprints/MPU9250.pretty)(options "")(descr ""))
+)

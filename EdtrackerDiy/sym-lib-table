@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name SparkFun-Boards)(type Legacy)(uri ${KIPRJMOD}/libs/SparkFun/SparkFun-Boards.lib)(options "")(descr ""))
+  (lib (name mpu9250)(type Legacy)(uri C:/Users/manoukianv/Documents/Perso/electronique/edtracker/EdtrackerDiy/libs/MPU9250/mpu9250.lib)(options "")(descr ""))
+  (lib (name EdtrackerDiy-rescue)(type Legacy)(uri ${KIPRJMOD}/EdtrackerDiy-rescue.lib)(options "")(descr ""))
+)
